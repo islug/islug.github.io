@@ -86,7 +86,7 @@ html {
 
 #section {
     width: 75%;
-    height: 400px;
+    height: 300px;
     font-size: small;
     float: left;
     padding: 10px;
@@ -95,7 +95,7 @@ html {
 
 #aside {
     width: 20%;
-    height: 400px;
+    height: 300px;
     float: right;
     font-size: small;
     padding: 10px;
