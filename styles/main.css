@@ -3,6 +3,10 @@ a {color: #000000;}
 a:link {color: #000000;}
 a:visited {color: #505050;}
 a:hover {color: #505050;}
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 html {
   background-color: #ffffff;
@@ -110,7 +114,7 @@ html {
     text-align: center;
     font-size: small;
     padding: 10px;
-    border-style: solid none;
+    border-style: solid none none none;
     border-width: 1px;
     border-color: #505050;
 }
