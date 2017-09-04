@@ -1,6 +1,5 @@
-# islug.github.io
+# Iasi Linux User Group Website
 
- Acest proiect este contruit cu ajutorul lui Jekyll. 
- Codul sursă găzduit de GitHub Pages acoperă atât prezentul site, cât și blogul atașat lui.
+ Acest proiect este contruit cu ajutorul lui Jekyll iar codul sursă este găzduit de GitHub Pages.
 
- Intenția initială este crearea  unei interfețe minimaliste, ușor de administrat și blând cu resursele, pe care în timp să o îmbunătățim.
+ Intenția initială este crearea  unei interfețe minimaliste, ușor de administrat, blând cu resursele și compatibil cu cât mai multe dispozitive.
