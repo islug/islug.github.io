@@ -26,7 +26,7 @@ html {
     clear: both;
     text-align: center;
     background-color: #ffffff;
-    padding: 10px;
+    padding: 5px;
 }
 
 #nav {
@@ -88,22 +88,21 @@ html {
     width: 75%;
     height: 300px;
     font-size: small;
-    float: left;
-    padding: 10px;
-    padding-top: 250px;
+    float: center;
+    padding: 5px;
+    padding-top: 200px;
 }
 
-#downside {
+#devzone {
     clear: both;
     text-align: center;
     font-size: small;
-    padding: 10px;
-    border-style: solid none none none;
-    border-width: 1px;
-    border-color: #505050;
+    padding: 1px 5px 1px 5px;
+    background-color: #000000;
+    color: #008000;
 }
 
-#downside a {
+#devzone a {
     color: #008000;
 }
 
@@ -111,7 +110,7 @@ html {
     clear: both;
     text-align: center;
     font-size: small;
-    padding: 10px;
+    padding: 5px;
     border-style: solid none none none;
     border-width: 1px;
     border-color: #505050;
